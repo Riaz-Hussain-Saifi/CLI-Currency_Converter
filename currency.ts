@@ -1,3 +1,7 @@
+#!/usr/bin/env node
+
+import { readFile } from "fs/promises";
+
 import { promises } from "fs";
 import inquirer from "inquirer";
 
