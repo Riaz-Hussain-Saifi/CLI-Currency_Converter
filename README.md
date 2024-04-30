@@ -1,4 +1,5 @@
-Currency Converter
+
+#Currency Converter
 
 This repository contains a simple currency converter application written in TypeScript. The application allows users to convert between different currencies using real-time exchange rates fetched from an API. Users can input the amount, select the source currency, and choose the target currency for conversion.
 
